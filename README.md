@@ -1,3 +1,5 @@
+![image](https://github.com/yutin1987/QPKG-Drupal7_QuickSetup/raw/master/icon/drupal7_quicksetup_80.gif)
+
 QPKG-Drupal7 QuickSetup
 =========
 Drupal /ˈdruːpəl/ is a free and open-source content management framework (CMF) written in PHP and distributed under the GNU General Public License.
