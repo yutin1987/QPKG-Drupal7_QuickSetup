@@ -8,13 +8,13 @@ Drupal Website: http://drupal.org
 
 QPKG
 =========
-QPKG files/applications makes it easy for QNAP Turbo NAS to install and remove packages.
+QPKG files/applications makes it easy for [QNAP](http://www.qnap.com/) Turbo NAS to install and remove packages.
 
 Download: http://bit.ly/qpkg_drupal7_qs
 
 Install
 =========
-Step1. install the drupal7 qpkg
+Step1. download and install the [drupal7 qpkg](http://bit.ly/qpkg_drupal7_qs)
 
 Step2. goto the configure page
        /drupal7_qs/install.php?profile=standard&locale=en
