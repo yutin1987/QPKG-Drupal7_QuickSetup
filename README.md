@@ -6,6 +6,10 @@ Drupal /ˈdruːpəl/ is a free and open-source content management framework (CMF
 
 Drupal Website: http://drupal.org
 
+QPKG
+=========
+QPKG files/applications makes it easy for QNAP Turbo NAS to install and remove packages.
+
 Download: http://bit.ly/qpkg_drupal7_qs
 
 Install
