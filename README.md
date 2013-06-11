@@ -20,3 +20,6 @@ Step2. goto the configure page
        /drupal7_qs/install.php?profile=standard&locale=en
 
 Step3. finished
+
+=========
+![image](https://github.com/yutin1987/QPKG-Drupal7_QuickSetup/raw/master/icon/drupal7_640x400.png)
