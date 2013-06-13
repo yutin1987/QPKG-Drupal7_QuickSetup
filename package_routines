@@ -135,5 +135,7 @@ PKG_MAIN_REMOVE="{
 #}
 #
 pkg_post_install(){
-  chmod 775 $QPKG_DIR/www/sites/default/files
+  CONF=/etc/config/qpkg.conf
+  QPKG_DIR=$(/sbin/getcfg $QPKG_NAME Install_Path -d "" -f $CONF)
+  chmod -R 775 $QPKG_DIR/www/sites/default/files
 }
