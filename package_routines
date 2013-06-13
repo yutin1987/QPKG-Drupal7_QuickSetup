@@ -135,5 +135,5 @@ PKG_MAIN_REMOVE="{
 #}
 #
 pkg_post_install(){
-  chmod 655 $QPKG_DIR/www/sites/default/files
+  chmod 775 $QPKG_DIR/www/sites/default/files
 }
